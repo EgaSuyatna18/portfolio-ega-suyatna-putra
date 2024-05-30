@@ -1,3 +1,5 @@
+Im Ega
+
 A techonology enthusiast and love to learn a programming language. experienced in php framework such as Laravel and CI and know how api works. Happy to explore a new update of opensource library and commited to completing the job according to deadline. Willing to learn the tools needed by the company.
 
 CREDIT FOR TEMPLATE
